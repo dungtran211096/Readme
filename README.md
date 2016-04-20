@@ -15,7 +15,6 @@
 
 * Fullname  : Tran Thi Dung
 * Hometown  : Vinh-Nghe An province.
-* Live in   : Ha Noi
 --
 ##CONTACTS
 * Phone number  : 0868900925
