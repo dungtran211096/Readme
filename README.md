@@ -11,7 +11,7 @@
     5. Other
 --
 ##BRIEF:
-<img scr="http://imgur.com/hamvivf">
+[Imgur](http://i.imgur.com/hamvivf.jpg?1)
 
 *Fullname : Tran Thi Dung
 *Hometown : Vinh-Nghe An provice
