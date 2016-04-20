@@ -22,8 +22,7 @@
 * Address       : Tran Quoc Hoan_Cau Giay_Ha Noi.
 
 ##EDUCATION
-2014 - 2015 : Faculty information technology 
-                University of engineering anh technology-VietNam national university
+2014 - 2018 : Faculty information technology - University of engineering anh technology - VietNam national university
 
 ##PROGRAMMING
 * Language programs : C, C++, php.
